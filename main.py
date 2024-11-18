@@ -32,7 +32,7 @@ class BatteryNotifier(ApplicationContext):
         print(f"{formatted_battery_info}")
 
         # Specify the path to the icon file
-        icon_path = "C:\\Projects\\Python\\A5W-BatteryNotif\\media\\ssicon.ico"
+        icon_path = "C:\\Projects\\Python\\A5W-BatteryChk\\media\\ssicon.ico"
 
         # Create a NotifyIcon
         notify_icon = NotifyIcon()
