@@ -1,0 +1,15 @@
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.AssemblyInfoInputs.cache
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.AssemblyInfo.cs
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.csproj.CoreCompileInputs.cache
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.sourcelink.json
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\bin\Debug\net8.0-windows\A5W-BatteryApp-v1.1.exe
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\bin\Debug\net8.0-windows\A5W-BatteryApp-v1.1.deps.json
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\bin\Debug\net8.0-windows\A5W-BatteryApp-v1.1.runtimeconfig.json
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\bin\Debug\net8.0-windows\A5W-BatteryApp-v1.1.dll
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\bin\Debug\net8.0-windows\A5W-BatteryApp-v1.1.pdb
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.dll
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\refint\A5W-BatteryApp-v1.1.dll
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.pdb
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\A5W-BatteryApp-v1.1.genruntimeconfig.cache
+C:\Users\forsmali\Documents\Projects\CSharp\A5W-BatteryChk\obj\Debug\net8.0-windows\ref\A5W-BatteryApp-v1.1.dll
