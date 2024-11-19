@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\linus\\.nuget\\packages\\": {}
+    "C:\\Users\\forsmali\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSharp\\A5W-BatteryChk\\A5W-BatteryChk.csproj",
-      "projectName": "A5W-BatteryChk",
-      "projectPath": "C:\\Projects\\CSharp\\A5W-BatteryChk\\A5W-BatteryChk.csproj",
-      "packagesPath": "C:\\Users\\linus\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSharp\\A5W-BatteryChk\\obj\\",
+      "projectUniqueName": "C:\\Users\\forsmali\\Documents\\Projects\\CSharp\\A5W-BatteryChk\\A5W-BatteryApp-v1.1.csproj",
+      "projectName": "A5W-BatteryApp-v1.1",
+      "projectPath": "C:\\Users\\forsmali\\Documents\\Projects\\CSharp\\A5W-BatteryChk\\A5W-BatteryApp-v1.1.csproj",
+      "packagesPath": "C:\\Users\\forsmali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\forsmali\\Documents\\Projects\\CSharp\\A5W-BatteryChk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\linus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\forsmali\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -42,13 +42,12 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

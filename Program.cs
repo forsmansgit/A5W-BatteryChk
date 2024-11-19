@@ -7,7 +7,7 @@ class Program
     {
         // Path to the Python executable
         string pythonPath = "py";
-        
+
         // Path to the Python script
         string relativeScriptPath = "..\\..\\..\\main.py";
         string scriptPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, relativeScriptPath);

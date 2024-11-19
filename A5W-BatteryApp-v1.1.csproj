@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net9.0</TargetFramework>
-    <RootNamespace>A5W_BatteryChk</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>A5W_BatteryApp_v1._1</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
